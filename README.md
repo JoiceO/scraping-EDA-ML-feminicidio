@@ -1,3 +1,3 @@
 Projeto que envolve a raspagem (com loop para os próximos resultados publicados), análise exploratória de dados e previsão de casos (por série temporal) de feminicídio no Estado de São Paulo, por meio dos dados estatísticos da Secretaria de Segurança Pública do estado de São Paulo (SSP/SP), a partir de janeiro de 2018. <br><br>
 Esse projeto foi elaborado durante [as aulas do Data Viking](https://www.youtube.com/watch?v=MMcoDBLXCa4), em janeiro de 2022<br><br><br>
-Obs.: apesar da lei, que organiza banco de dados contendo índices de violência praticados contra a mulher no Estado de São Paulo, estar vigente desde 2011 (lei nº 14.545/2011), as ocorrências de feminicídio em boletins de ocorrência começaram a ser registradas somente a partir de janeiro de 2018.
+Obs.: apesar da lei nº 14.545/2011 estar vigente desde 2011, as ocorrências de feminicídio em boletins de ocorrência começaram a ser registradas numa categoria própria somente a partir de janeiro de 2018.
